@@ -9,16 +9,14 @@
 <h3 align="center">
     ======================
 </h3>
-
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
-
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒
 <!--
-**THE-VIP-BOY-OP/VIP-ROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mrtosumemon/mrtosumemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/mrtosumemon/count.svg" />
 </p>
 
 
@@ -27,7 +25,7 @@
 </h3>
 
 <h2 align="center">
-    𝄟🌹𝗩𝗜𝗣 𝗟𝗢𝗚𝗚𝗘𝗥🌹​​​​​𝄟​​​​​
+    𝄟🌹𝗦𝗔𝗡𝗔 𝗟𝗢𝗚𝗚𝗘𝗥🌹​​​​​𝄟​​​​​
 </h2>
 
 <p align="center">
@@ -47,7 +45,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-LOGGER"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/SANA-LOGGER"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -57,10 +55,10 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/LOVERS_DUNIA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/INCRICIBLE"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/VIP_CREATORS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/About_godfather"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
