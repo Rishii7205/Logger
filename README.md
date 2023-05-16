@@ -29,10 +29,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/dcb01a8397a4658bd62e0.jpg">
+  <img src="https://telegra.ph/file/81fe6dc3ff45baae14ff4.jpg">
 </p>
 
-𝐃𝐞𝐦𝐨:- [ॐ 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 ॐ](https://t.me/the_vip_bots/70465)
+𝐃𝐞𝐦𝐨:- [ॐ 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 ॐ](https://t.me/INCRICIBLE_MUSIC_BOT)
 ━━━━━━━━━━━━━━━━━━━━
 
 
