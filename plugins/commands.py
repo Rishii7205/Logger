@@ -42,7 +42,7 @@ async def start(client, message):
                     ]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
+        m=await message.reply_sticker("CAACAgUAAx0CYzn1-QADqmSe2pYycKNKFonxxI-VFHjUB9wpAALmCQACQXvoVNRw-gzIm9WhHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -85,14 +85,14 @@ async def start(client, message):
             InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/sana_supports")
+            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/jam_music_support")
             ],[      
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAACAgUAAx0Cc6rVEgACdL5kY0Qwu2aSGDTqEmw44Q66alujWQACRQcAArVdGVcwdngQMfwhjx4E")
+        m=await message.reply_sticker("CAACAgUAAx0CYzn1-QADqmSe2pYycKNKFonxxI-VFHjUB9wpAALmCQACQXvoVNRw-gzIm9WhHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
